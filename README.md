@@ -1,7 +1,7 @@
 ### Heya! 👋
 
 I am a software engineer from Portugal, working mainly as a backend developer.
-- 🔭 Working on a backend microservices based architecture using **Node.js** and **Kotlin** with **SpringBoot**.
+- 🔭 Working on a backend microservices based architecture using **Node.js** (Nest.js) and **Kotlin** (Spring).
 - 🌱 Learning more about **Reactive SpringBoot**.
 - 🐈 Cats.
 
