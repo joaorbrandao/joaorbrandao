@@ -1,8 +1,8 @@
 ### Heya! 👋
 
-I am a Senior Software Engineer from Portugal, working as a backend developer.
-- 🔭 Working on a microservices based architecture using **Node.js** (Nest.js) and **Kotlin** (Spring).
-- 🌱 Learning more about **Reactive SpringBoot**.
+I am a Software Engineer from Portugal, working as a backend developer.
+- 🔭 Working on a event-driven data platform using **Kotlin** to provide customers access to their data.
+- 🌱 Learning more about **databases**.
 - 🐈 Cats.
 
 ## ✍️ Blog & Writing
