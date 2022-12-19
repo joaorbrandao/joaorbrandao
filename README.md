@@ -1,7 +1,7 @@
 ### Heya! 👋
 
-I am a Software Engineer from Portugal, working as a backend developer.
-- 🔭 Working on a event-driven data platform using **Kotlin** to provide customers access to their data.
+I am a Software Engineer from Portugal, working as a backend dev.
+- 🔭 Working on an event-driven data platform using **Kotlin** to provide customers access to their data.
 - 🌱 Learning more about **databases**.
 - 🐈 Cats.
 
