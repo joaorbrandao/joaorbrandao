@@ -1,8 +1,10 @@
 ### Heya! 👋
 
-I am a Software Engineer from Portugal, working as a backend dev.
-- 🔭 Working on an event-driven data platform using **Kotlin** to provide customers access to their data.
-- 🌱 Learning more about **databases**.
+I am a software engineer from Portugal, working as a backend dev.
+- 🚀 Building great products with awesome people!
+  - Designing technical solutions on [excalidraw](https://excalidraw.com/)
+  - Coding with Node.js & TypeScript
+- 🌱 Continuously learning
 - 🐈 Cats.
 
 ## ✍️ Blog & Writing
